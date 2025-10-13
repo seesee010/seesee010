@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @seesee010
-- 👀 I’m interested in coding and computers
-- 📫 You can reach me on discord by "seesee1" as well as on every other platform with the username "SeeSee1" or "seesee1" or "seesee010"
-- Nvim BTW
+- chroot in seesee010 /mnt
+- [System]$: I like coding, Computers, OS (gnu / linux Arch BTW!), etc
+- [System]$: Reach me on:
+  - $>$  @seesee010 / @SeeSee1 / @seesee1
 
 <!---
-seesee010/seesee010 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+seesee010/seesee010 is a special repo because
+`README.md` appears on your GitHub Profile!
 --->
