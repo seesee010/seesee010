@@ -3,7 +3,6 @@
 - KDE Plasma BTW (gnome hater)
 
 <br>
-- [System]$:
   - [System]$:  @seesee010 / @SeeSee1 / @seesee1
 <br>
 <!---
