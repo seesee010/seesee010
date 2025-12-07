@@ -1,6 +1,5 @@
 - chroot in seesee010 as /mnt
-- [System]$: I like coding, Computers, OS (gnu / linux Arch BTW!), etc
-- KDE Plasma BTW (gnome hater)
+- [System]$: I like coding, Computers, OS
 
 <br>
   - [System]$:  @seesee010 / @SeeSee1 / @seesee1
