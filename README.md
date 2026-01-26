@@ -1,5 +1,5 @@
 - chroot in seesee010 as /mnt
-- [System]$: I like coding, Computers, OS
+- [System]$: I like coding, Computers, OS, PCBs
 
 <br>
   - [System]$:  @seesee010 / @SeeSee1 / @seesee1
