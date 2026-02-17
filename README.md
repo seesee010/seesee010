@@ -1,10 +1,10 @@
 [User]$: chroot in seesee010 as /mnt
 
 [User]$: cat languages.txt
-[System]$: C | C++ | Assembly (x86-64) | ESP32 | Arduino
+[System]$: C | C++ | Assembly (x86-64 | Intel Syntax)
 
 [User]$: cat me.txt
-[System]$: I like coding, Computers, OS, PCBs
+[System]$: I like coding, Computers, OS, PCBs, Microcontroller
 
 [Social]$:  @seesee010 / @SeeSee1 / @seesee1
 <!---
