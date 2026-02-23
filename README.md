@@ -8,6 +8,7 @@
 
 [System]$: I like coding, Computers, OS, PCBs, Microcontroller
 
+[User]$: cat social.txt
 [Social]$:  @seesee010 / @SeeSee1 / @seesee1
 <!---
 seesee010/seesee010 is a special repo because
