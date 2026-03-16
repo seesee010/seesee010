@@ -11,6 +11,7 @@
 [Social]$:  @seesee010 / @SeeSee1 / @seesee1
 ```
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seesee010&show_icons=true&theme=radical)
 <!---
 seesee010/seesee010 is a special repo because
 `README.md` appears on your GitHub Profile!
