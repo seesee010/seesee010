@@ -11,7 +11,7 @@
 [Social]$:  @seesee010 / @SeeSee1 / @seesee1
 ```
 
-![GitHub Stats](https://seesee100-stats-dvhwnqi36-sebastiandaubner2-2316s-projects.vercel.app/api?username=seesee010&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seesee010&hide=contribs,prs)
 
 Info:
 
