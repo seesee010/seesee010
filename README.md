@@ -11,7 +11,7 @@
 [Social]$:  @seesee010 / @SeeSee1 / @seesee1
 ```
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seesee010&hide=contribs,prs)
+![seesee010's GitHub stats](https://github-readme-stats.vercel.app/api?username=seesee010&hide=contribs,prs)
 
 Info:
 
