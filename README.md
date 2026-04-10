@@ -18,7 +18,6 @@ Every Vibecoded repo will have following badge:
 
 And every other repo will not have that badge.
 
-Languages:
 I personaly use following programming languages:
 1. C
 2. C++
