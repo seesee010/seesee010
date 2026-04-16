@@ -1,5 +1,5 @@
 ```bash
-[User]$: chroot in seesee010 as /mnt
+[SYSTEM]$: chroot in seesee010 as /mnt
 
 [User]$: cat languages.txt
 [System]$: C | C++ | Assembly (x86-64 | Intel Syntax)
