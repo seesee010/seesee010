@@ -1,13 +1,13 @@
 ```bash
 [SYSTEM]$: chroot in seesee010 as /mnt
 
-~/main:[User]$: cat languages.txt
+[User ~/main]$: cat languages.txt
 [System]$: C | C++ | Assembly (x86-64 | Intel Syntax)
 
-~/main:[User]$: cat me.txt
+[User ~/main]$: cat me.txt
 [System]$: I like coding, Computers, OS, PCBs, Microcontroller
 
-~/maim:[User]$: cat social.txt
+[User ~/main]$: cat social.txt
 [Social]$:  @seesee010 / @SeeSee1 / @seesee1
 ```
 
