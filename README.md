@@ -27,11 +27,6 @@ I personaly use following programming languages:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seesee010&show_icons=true&theme=radical)
 
-> [!NOTE]
-> Every auto workflow should use:
-> seesee010.github.io
->
-> (This could be happening, due to github blocks for automations etc...
 <!---
 seesee010/seesee010 is a special repo because
 `README.md` appears on your GitHub Profile!
