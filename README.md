@@ -32,8 +32,6 @@ I personaly use following programming languages:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seesee010&show_icons=true&theme=radical)
 
-![hackatime-languages](https://github-readme-stats.hackclub.dev/api/wakatime?username=55794&api_domain=hackatime.hackclub.com&theme=dark&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
-
 <!---
 seesee010/seesee010 is a special repo because
 `README.md` appears on your GitHub Profile!
