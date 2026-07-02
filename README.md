@@ -28,7 +28,7 @@ I personaly use following programming languages:
 1. C
 2. C++
 3. Python
-4. x86-64 ASM
+4. x86 ASM
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seesee010&show_icons=true&theme=radical)
 
