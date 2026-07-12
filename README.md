@@ -18,6 +18,7 @@ Every Vibecoded / Agentic engeneered repo will have following badge:
 ![Made With](https://img.shields.io/badge/made%20with-Agentic_Engeneering-red?style=plastic)
 
 ```
+
 ![Made With](https://img.shields.io/badge/made%20with-vibecoding-blueviolet?style=plastic)
 ![Made With](https://img.shields.io/badge/made%20with-Agentic_Engeneering-red?style=plastic)
 ```
