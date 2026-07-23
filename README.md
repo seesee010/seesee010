@@ -1,37 +1,34 @@
-```bash
-[SYSTEM]$ chroot in seesee010 as /mnt
+# About me
+Hi, I'm SeeSee1 (seesee010 on GitHub).
 
-[User ~/main]$ cat languages.txt
-C | C++ | Assembly (x86-64 | Intel Syntax)
+I'm into low-level stuff.
 
-[User ~/main]$ cat me.txt
-I like coding, Computers, OS, PCBs, Microcontroller
+Check out my pinned repositories for a selection of my best projects.
 
-[User ~/main]$: cat social.txt
-@seesee010 / @SeeSee1 / @seesee1
-```
-
-Info:
-
-Every Vibecoded / Agentic engeneered repo will have following badge:
-![Made With](https://img.shields.io/badge/made%20with-vibecoding-blueviolet?style=plastic)
-![Made With](https://img.shields.io/badge/made%20with-Agentic_Engeneering-red?style=plastic)
-
-```
-
-![Made With](https://img.shields.io/badge/made%20with-vibecoding-blueviolet?style=plastic)
-![Made With](https://img.shields.io/badge/made%20with-Agentic_Engeneering-red?style=plastic)
-```
-
-And every other repo will not have that badge.
-
-I personaly use following programming languages:
+## My favorite language
 1. C
-2. C++
-3. Python
-4. x86 ASM
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seesee010&show_icons=true&theme=radical)
+## Also worked with
+- Zig (currently learning)
+- Python
+- Assembly (x86, 6502)
+- Bash
+- C++
+- Java / C#
+
+## Info
+Repos that were `vibe-coded` or built with `agentic engineering` are labeled with the following badges in their `README`:
+
+![Made With](https://img.shields.io/badge/made%20with-vibecoding-blueviolet?style=plastic)
+![Made With](https://img.shields.io/badge/made%20with-Agentic_Engineering-red?style=plastic)
+
+## Contact
+Email: seesee010.kernel@gmail.com
+
+( See the other options, which are pinned )
+
+## Stats
+![seesee010's GitHub stats](https://github-readme-stats.vercel.app/api?username=seesee010&show_icons=true&theme=radical)
 
 <!---
 seesee010/seesee010 is a special repo because
