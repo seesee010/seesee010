@@ -22,6 +22,9 @@ Repos that were `vibe-coded` or built with `agentic engineering` are labeled wit
 ![Made With](https://img.shields.io/badge/made%20with-vibecoding-blueviolet?style=plastic)
 ![Made With](https://img.shields.io/badge/made%20with-Agentic_Engineering-red?style=plastic)
 
+## My general setup
+
+Please read: [dotfiles-repo](https://github.com/seesee010/dotfiles)
 ## Gist
 
 [GITHUB GIST](https://gist.github.com/seesee010)
