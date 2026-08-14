@@ -22,6 +22,10 @@ Repos that were `vibe-coded` or built with `agentic engineering` are labeled wit
 ![Made With](https://img.shields.io/badge/made%20with-vibecoding-blueviolet?style=plastic)
 ![Made With](https://img.shields.io/badge/made%20with-Agentic_Engineering-red?style=plastic)
 
+## Gist
+
+[GITHUB GIST](https://gist.github.com/seesee010)
+
 ## Contact
 Email: seesee010.kernel@gmail.com
 
