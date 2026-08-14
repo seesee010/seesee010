@@ -31,10 +31,13 @@ Please read: [dotfiles-repo](https://github.com/seesee010/dotfiles)
 
 ## Link to this site (made with `ha.mr`):
 
-<img width="487" height="506" alt="image" src="https://github.com/user-attachments/assets/57378c9f-3527-49e8-a4be-a9c0357152a6" />
+<img height="300" alt="image" src="https://github.com/user-attachments/assets/57378c9f-3527-49e8-a4be-a9c0357152a6" />
 
 ## Contact
 Email: seesee010.kernel@gmail.com
+
+<img height="270" alt="image" src="https://github.com/user-attachments/assets/bae6fbff-e84b-4dea-b196-050d2bf92f7e" />
+
 
 ( See the other options, which are pinned )
 
