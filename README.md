@@ -29,10 +29,6 @@ Please read: [dotfiles-repo](https://github.com/seesee010/dotfiles)
 
 [GITHUB GIST](https://gist.github.com/seesee010)
 
-## Link to this site (made with `ha.mr`):
-
-<img height="300" alt="image" src="https://github.com/user-attachments/assets/57378c9f-3527-49e8-a4be-a9c0357152a6" />
-
 ## Contact
 Email: seesee010.kernel@gmail.com
 
