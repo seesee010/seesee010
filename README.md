@@ -15,6 +15,7 @@ Check out my pinned repositories for a selection of my best projects.
 - Bash
 - C++
 - Java / C#
+- lua (nvim)
 
 ## Info
 Repos that were `vibe-coded` or built with `agentic engineering` are labeled with the following badges in their `README`:
