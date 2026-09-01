@@ -3,8 +3,6 @@ Hi, I'm SeeSee1 (seesee010 on GitHub).
 
 I'm into low-level stuff.
 
-Check out my pinned repositories for a selection of my best projects.
-
 ## My favorite language
 1. C
 
