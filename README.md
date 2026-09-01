@@ -13,6 +13,10 @@ I'm into low-level stuff.
 ![AssemblyScript](https://img.shields.io/badge/assembly-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
 ![C#](https://img.shields.io/badge/c-sharp-%2300599C.svg?style=for-the-badge&logo=#&logoColor=white)
 
+<!--
+https://github.com/Ileriayo/markdown-badges
+--->
+
 ## Info
 Repos that were `vibe-coded` or built with `agentic engineering` are labeled with the following badges in their `README`:
 
