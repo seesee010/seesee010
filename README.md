@@ -16,8 +16,8 @@ I'm into low-level stuff.
 ## Info
 Repos that were `vibe-coded` or built with `agentic engineering` are labeled with the following badges in their `README`:
 
-![Made With](https://img.shields.io/badge/made%20with-vibecoding-blueviolet?style=plastic)
-![Made With](https://img.shields.io/badge/made%20with-Agentic_Engineering-red?style=plastic)
+![Made With:vibecoding](https://img.shields.io/badge/made%20with-vibecoding-blueviolet?style=plastic)
+![Made With:Agentic_Engineering](https://img.shields.io/badge/made%20with-Agentic_Engineering-red?style=plastic)
 
 ## Gist
 
