@@ -38,9 +38,6 @@ Email: seesee010.kernel@gmail.com
 
 ( See the other options, which are pinned )
 
-## Stats
-![seesee010's GitHub stats](https://github-readme-stats.vercel.app/api?username=seesee010&show_icons=true&theme=radical)
-
 <!---
 seesee010/seesee010 is a special repo because
 `README.md` appears on your GitHub Profile!
