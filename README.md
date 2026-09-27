@@ -3,7 +3,7 @@ Hi, I'm SeeSee1 (seesee010 on GitHub).
 
 I'm into low-level stuff.
 
-## Languages I have worked with (badges from: https://github.com/Ileriayo/markdown-badges)
+## Languages I have worked with
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -13,7 +13,7 @@ I'm into low-level stuff.
 ![AssemblyScript](https://img.shields.io/badge/assembly-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![C#](https://img.shields.io/badge/c-sharp-%2300599C.svg?style=for-the-badge&logo=#&logoColor=white)
-
+> https://github.com/Ileriayo/markdown-badges
 <!--
 https://github.com/Ileriayo/markdown-badges
 --->
