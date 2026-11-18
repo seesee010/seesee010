@@ -1,5 +1,5 @@
 # About me
-Hi, I'm SeeSee1 (seesee010 on GitHub).
+Hi, I'm seesee010.
 
 I'm into low-level stuff.
 
